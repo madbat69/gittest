@@ -1,2 +1,5 @@
-# gittest
-first repo
+#include <stdio.h>
+main()
+{
+printf("hello");
+}
